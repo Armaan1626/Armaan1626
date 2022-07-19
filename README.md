@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Armaan1626
+- 👋 Hi, I’m Mohd Armaan.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python & c++.
 - 💞️ I’m looking to collaborate on basic programing projects.
